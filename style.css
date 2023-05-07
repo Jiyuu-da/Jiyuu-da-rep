@@ -513,3 +513,89 @@ input {
         margin-top: 24%;
     }
 }
+@media (max-width: 380px) {
+    .img-1-cnt {
+        width: 100%;
+        height: 200px;
+    }
+    .img-2-cnt {
+        display: none;
+    }
+    .intro-text h2 {
+        font-size: 18px;
+    }
+    .intro-text {
+        padding: 2px;
+        width: 70%;
+        height: 200px;
+        bottom: 0;
+        left: 14%;
+        margin-top: 49%;
+    }
+    .intro-text p {
+        font-size: 13px;
+    }
+    main {
+        margin-top: 80%;
+    }
+    .main-text h3 {
+        font-size: 19px;
+    }
+    .main-text p {
+        font-size: 16px;
+    }
+    span {
+        font-size: 28px;
+    }
+    .section-cnt {
+        margin-top: 100%;
+    }
+    .main-img-1, .main-img-2, .main-img-3 {
+        width: 100%;
+        /* height: 50%; */
+    }
+    #col-1 p, #col-2 p, #col-3 p {
+        font-size: 13px;
+        text-align: center;
+        /* height: 190px; */
+    }
+    .subscribe {
+        height: 140%;
+    }
+    .subscribe h3 {
+        font-size: 18px;
+        line-height: 1em;
+        margin-bottom: 12px;
+    }
+    .subscribe p {
+        font-size: 14px;
+        padding: 0px;
+    }
+    .section2-cnt {
+        margin-top: 70%;
+        height: 100vh;
+    }
+    .form button {
+        width: 90.5%;
+    }
+    input {
+        padding: 4px;
+        width: 90%;
+    }
+    .block {
+        height: 100vh;
+    }
+    .about-me h2 {
+        font-size: 18px;
+    }
+    .about-me p {
+        font-size: 14px;
+    }
+    .about-me button {
+        margin-top: 23%;
+    }
+    .copy {
+        font-size: 12px;
+        margin-top: 8%;
+    }
+}
